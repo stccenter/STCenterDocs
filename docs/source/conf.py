@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'StCenter Documents'
+project = 'STCenter Documents'
 copyright = ''
 author = 'Byron Pritchett Jr'
 
