@@ -1,4 +1,4 @@
-Steps to Install Python 3.8.10 in Windows
+Steps to Install Python 3.8.10 in Windows 11
 =========================================
 
 1. Go to `<https://www.python.org/>`_.
