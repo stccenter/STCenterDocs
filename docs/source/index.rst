@@ -8,3 +8,4 @@ TBD
 
    venv-ubuntu
    python3.8-install
+   anaconda-install
