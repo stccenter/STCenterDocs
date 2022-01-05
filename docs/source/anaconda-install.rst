@@ -1,7 +1,7 @@
 How to Install Anaconda on Windows 11
 =========================================
 
-1. Go to thisc `link <https://www.anaconda.com/products/individual>`_.
+1. Go to this `link <https://www.anaconda.com/products/individual>`_.
 2. Click the green “Download” button.
 3. Once download is complete, click the file. The set-up window will appear.
 4. Click “Next”.
