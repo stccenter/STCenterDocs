@@ -44,9 +44,9 @@ The pupose of a virtual environment is to create an independent environment for 
 5. To install packages using pip, type: "pip install package-name"
 
 .. image:: ../images/v-env.step5.png
-    :width: 465px
+    :width: 500px
     :align: center
-    :height: 150px
+    :height: 55px
     :alt: Placing virtual environment inside a folder
 
 
