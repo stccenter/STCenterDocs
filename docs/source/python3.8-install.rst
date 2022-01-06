@@ -11,9 +11,9 @@ Steps to Install Python 3.8.10 in Windows 11
 8. To confirm installation, open Command prompt and type “python --version”. If the installation was successful, it should display the version information and the Python command prompt. In the image below, my version is Python 3.9.7.
 
 .. image:: ../images/python-screenshot.png
-    :width: 465px
+    :width: 480px
     :align: center
-    :height: 150px
+    :height: 175px
     :alt: Verify python installation
 
 Steps to creating Virtual Environment
@@ -26,16 +26,28 @@ The pupose of a virtual environment is to create an independent environment for 
 2. To place the virtual enviroment inside a specific folder: type "cd" followed by a space, drag and drop the folder to the window, and press enter.
 
 .. image:: ../images/v-env.step2.png
-    :width: 465px
+    :width: 600px
     :align: center
-    :height: 150px
+    :height: 250px
     :alt: Placing virtual environment inside a folder
 
 3. Type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
 
 4. To activate the environment, type "demo-env\\Scripts\\activate.bat"
 
+.. image:: ../images/v-env.step4.png
+    :width: 650px
+    :align: center
+    :height: 300px
+    :alt: Placing virtual environment inside a folder
+
 5. To install packages using pip, type: "pip install package-name"
 
-Example: (byron env) C:\\Users\\byron\\Documents>pip install numpy
+.. image:: ../images/v-env.step5.png
+    :width: 465px
+    :align: center
+    :height: 150px
+    :alt: Placing virtual environment inside a folder
+
+
 
