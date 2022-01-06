@@ -9,7 +9,11 @@ Steps to Install Python 3.8.10 in Windows 11
 6. Before pressing "Install Now", click the box “Add Python 3.8 to PATH” at the bottom of the window. Adding Python to PATH makes it possible to run Python from your command prompt.
 7. Click the “Install Now” button.
 8. To confirm installation, open Command prompt and type “python --version”. If the installation was successful, it should display the version information and the Python command prompt. 
-
+.. image:: python-screenshot.PNG
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
 Steps to creating Virtual Environment
 ----------------------------------
 
