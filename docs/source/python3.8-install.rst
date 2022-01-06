@@ -9,3 +9,16 @@ Steps to Install Python 3.8.10 in Windows 11
 6. Before pressing "Install Now", click the box “Add Python 3.8 to PATH” at the bottom of the window. Adding Python to PATH makes it possible to run Python from your command prompt.
 7. Click the “Install Now” button.
 8. To confirm installation, open Command prompt and type “python”. If the installation was successful, it should display the version information and the Python command prompt. 
+
+Steps to creating Virtual Environment
+------------------------------------
+The pupose of a virtual environment is to create an independent environment for Python projects. This means that each project can have its own dependencies separate from others of a different Python project.
+
+1. Open Command Prompt through your computer.
+2. Type: python -m venv byron env
+“byron env” is an example name of an environment. You have the option to name it anything.
+3. To activate the environment, type:
+C:\Users\byron\Documents>byron env\Scripts\activate.bat
+4. To install packages using pip, type: pip install package-name
+Example: (byron env) C:\Users\byron\Documents>pip install numpy
+
