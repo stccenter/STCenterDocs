@@ -10,7 +10,7 @@ Steps to Install Python 3.8.10 in Windows 11
 7. Click the “Install Now” button.
 8. To confirm installation, open Command prompt and type “python --version”. If the installation was successful, it should display the version information and the Python command prompt. 
 
-.. image:: ./images/python-screenshot.png
+.. image:: ../images/python-screenshot.png
     :width: 200px
     :align: center
     :height: 100px
