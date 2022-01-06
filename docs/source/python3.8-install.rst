@@ -17,6 +17,7 @@ The pupose of a virtual environment is to create an independent environment for 
 
 1. Open Command Prompt.
 
+
 2. Type: python -m venv byron env
 
 “byron env” is an example name of an environment. You have the option to name it anything.
