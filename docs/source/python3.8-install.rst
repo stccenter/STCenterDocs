@@ -23,16 +23,19 @@ The pupose of a virtual environment is to create an independent environment for 
 
 1. Open Command Prompt.
 
+2. To place the virtual enviroment inside a specific folder: type "cd" followed by a space, drag and drop the folder to the window, and press enter.
 
-2. Type: python -m venv byron env
+.. image:: ../images/v-env.step2.png
+    :width: 465px
+    :align: center
+    :height: 150px
+    :alt: Placing virtual environment inside a folder
 
-“byron env” is an example name of an environment. You have the option to name it anything.
+3. Type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
 
-3. To activate the environment, type:
+4. To activate the environment, type "demo-env\\Scripts\\activate.bat"
 
-C:\\Users\\byron\\Documents>byron env\\Scripts\\activate.bat
-
-4. To install packages using pip, type: pip install package-name
+5. To install packages using pip, type: "pip install package-name"
 
 Example: (byron env) C:\\Users\\byron\\Documents>pip install numpy
 
