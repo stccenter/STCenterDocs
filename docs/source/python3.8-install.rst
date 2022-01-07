@@ -39,7 +39,7 @@ The pupose of a virtual environment is to create an independent environment for 
     :width: 650px
     :align: center
     :height: 300px
-    :alt: Placing virtual environment inside a folder
+    :alt: Activating virtual environment 
 
 5. To install packages using pip, type: "pip install package-name"
 
@@ -47,7 +47,7 @@ The pupose of a virtual environment is to create an independent environment for 
     :width: 500px
     :align: center
     :height: 55px
-    :alt: Placing virtual environment inside a folder
+    :alt: Installing packages using pip
 
 
 
