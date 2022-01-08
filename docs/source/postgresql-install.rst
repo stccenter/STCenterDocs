@@ -28,9 +28,9 @@ Installing PostgreSQL
 4.	Select the download link that fits your desired version and your system. In this case, the Windows x86-64, Version 13.3 is selected.
 
 .. image:: ../images/postgre-step4.png
-    :width: 900px
+    :width: 852px
     :align: center
-    :height: 350px
+    :height: 321px
     :alt: PostgreSQL step 4 screenshot
 
 5.	Select the directory where you would like PostgreSQL installed.
@@ -44,14 +44,27 @@ Installing PostgreSQL
 6.	Make sure all boxes are selected, then select “next”.
 
 .. image:: ../images/postgre-step6.png
-    :width: 550px
+    :width: 538px
     :align: center
-    :height: 350px
+    :height: 405px
     :alt: PostgreSQL step 6 screenshot
 
 7.	Select your chosen data directory.
+
+.. image:: ../images/postgre-step7.png
+    :width: 448px
+    :align: center
+    :height: 348px
+    :alt: PostgreSQL step 7 screenshot
+
 8.	Proceed with your installation.
 9.	Congratulations! PostgresSQL is now installed on your machine successfully.
+
+.. image:: ../images/postgre-step9.png
+    :width: 538px
+    :align: center
+    :height: 405px
+    :alt: PostgreSQL step 9 screenshot
 
 
 Installing Slack Builder
