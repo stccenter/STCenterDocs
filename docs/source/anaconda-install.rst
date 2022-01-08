@@ -22,7 +22,26 @@ Creating a Conda Environment
 
 1. Open Anaconda Prompt
 2. Type “conda create –name demo-env”. As a note, “demo-env” is the name I chose for my environment name. You have the option to name it anything of your choice.
+
+.. image:: ../images/conda-env.step1.png
+    :width: 600px
+    :align: center
+    :height: 45px
+    :alt: Creating conda environment
+    
 3. You will be asked if you want to proceed (y/n). Type “y”.
+
+.. image:: ../images/conda-env.step3.png
+    :width: 150px
+    :align: center
+    :height: 45px
+    :alt: Proceed (y/n)
+    
 4. Next, it will give you a line to copy that will activate the environment. Type it out and press enter. Your conda environment is now activated.
 
+.. image:: ../images/conda-env.step4.png
+    :width: 325px
+    :align: center
+    :height: 285px
+    :alt: Activate the environment
 
