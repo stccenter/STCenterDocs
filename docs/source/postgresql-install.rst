@@ -67,6 +67,7 @@ Installing PostgreSQL
     :alt: PostgreSQL step 9 screenshot
 
 
+
 Installing Slack Builder
 --------------------------
 1.	Select PostgreSQL from the drop-down menu on the Slack Builder.
