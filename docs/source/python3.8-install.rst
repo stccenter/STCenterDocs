@@ -28,9 +28,9 @@ The pupose of a virtual environment is to create an independent environment for 
 3. To be able to place the virtual enviroment inside your created folder, you will need to display the directory for that folder. To do this, type "cd" followed by a space, enter the name of your foldr, and press enter.
 
 .. image:: ../images/v-env.step3.png
-    :width: 600px
+    :width: 400px
     :align: center
-    :height: 250px
+    :height: 200px
     :alt: Placing virtual environment inside a folder
 
 4. Type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
@@ -38,17 +38,17 @@ The pupose of a virtual environment is to create an independent environment for 
 5. To activate the environment, type "demo-env\\Scripts\\activate.bat"
 
 .. image:: ../images/v-env.step5.png
-    :width: 650px
+    :width: 535px
     :align: center
     :height: 300px
     :alt: Activating virtual environment 
 
-6. To install packages using pip, type: "pip install package-name"
+6. To install packages using pip, type: "pip install package-name". In the image below, the package name is "numpy"
 
 .. image:: ../images/v-env.step6.png
-    :width: 500px
+    :width: 550px
     :align: center
-    :height: 55px
+    :height: 40px
     :alt: Installing packages using pip
 
 
