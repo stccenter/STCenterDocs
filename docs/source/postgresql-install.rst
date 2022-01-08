@@ -2,11 +2,53 @@ Installing PostgreSQL
 =======================
 
 1.	Navigate to postgressql.org and select the “Download” option.
+
+.. image:: ../images/postgre-step1.png
+    :width: 650px
+    :align: center
+    :height: 350px
+    :alt: PostgreSQL step 1 screenshot
+
 2.	Select the download suitable for your operating system. In this example, Windows is selected.
+
+.. image:: ../images/postgre-step2.png
+    :width: 650px
+    :align: center
+    :height: 350px
+    :alt: PostgreSQL step 2 screenshot
+
 3.	Click on the link (“Download the installer”) and you will be directed to the downloads page.
+
+.. image:: ../images/postgre-step3.png
+    :width: 825px
+    :align: center
+    :height: 350px
+    :alt: PostgreSQL step 3 screenshot
+
 4.	Select the download link that fits your desired version and your system. In this case, the Windows x86-64, Version 13.3 is selected.
+
+.. image:: ../images/postgre-step4.png
+    :width: 900px
+    :align: center
+    :height: 350px
+    :alt: PostgreSQL step 4 screenshot
+
 5.	Select the directory where you would like PostgreSQL installed.
+
+.. image:: ../images/postgre-step5.png
+    :width: 500px
+    :align: center
+    :height: 375px
+    :alt: PostgreSQL step 5 screenshot
+
 6.	Make sure all boxes are selected, then select “next”.
+
+.. image:: ../images/postgre-step6.png
+    :width: 550px
+    :align: center
+    :height: 350px
+    :alt: PostgreSQL step 6 screenshot
+
 7.	Select your chosen data directory.
 8.	Proceed with your installation.
 9.	Congratulations! PostgresSQL is now installed on your machine successfully.
