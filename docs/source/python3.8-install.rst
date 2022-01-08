@@ -6,9 +6,9 @@ Steps to Install Python 3.9.7 in Windows 11
 3. Towards the bottom of the page, there will be a list of downloadable files. Depending on your Operating System, you should either choose “Windows installer (32-bit)” or “Windows installer (64-bit)”. My computer is a 64-bit OS so I chose Windows installer (64-bit).
 4. Once you click the file, the download will begin.
 5. When the download is complete, open the file. There will be an installation window to help you begin the installation process.
-6. Before pressing "Install Now", click the box “Add Python 3.9 to PATH” at the bottom of the window. Adding Python to PATH makes it possible to run Python from your command prompt.
+6. Before pressing "Install Now", click the box “Add Python 3.9 to PATH” at the bottom of the window. Adding Python to PATH makes it possible to run Python from Command Prompt.
 7. Click the “Install Now” button.
-8. To confirm installation, open Command prompt and type “python --version”. If the installation was successful, it should display the version information and the Python command prompt. 
+8. To confirm installation, open Command Prompt and type “python --version”. If the installation was successful, it should display the version information and the Python command prompt. 
 
 .. image:: ../images/python-screenshot.png
     :width: 480px
