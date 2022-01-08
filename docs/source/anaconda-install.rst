@@ -29,7 +29,7 @@ How to Install Anaconda on Windows 11
     :height: 250px
     :alt: Choose folder for Anaconda installation
 
-8. Choose whether to add Anaconda to your PATH environment variable. I checked the box so it can help me run Anaonda in Command Prompt.
+8. Choose whether to add Anaconda to your PATH environment variable. I checked the box so I would be able to run Anaonda in Command Prompt.
 9. Choose whether to register Anaconda as your default Python. It is recommended to leave this box checked.
 
 .. image:: ../images/anaconda.step8&9.png
@@ -54,7 +54,7 @@ Creating a Conda Environment
 .. image:: ../images/conda-env.step1.png
     :width: 600px
     :align: center
-    :height: 45px
+    :height: 40px
     :alt: Creating conda environment
     
 3. You will be asked if you want to proceed (y/n). Type “y”.
