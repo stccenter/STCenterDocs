@@ -17,7 +17,7 @@ Download Ubuntu ISO file
 2. `Follow this link <https://ubuntu.com/#download>`_.
 3. Under the "Download" button select "20.04 LTS".
 
-Set Up Ubuntu virtual machine in VirtualBox
+Set Up Ubuntu Virtual Machine in VirtualBox
 --------------------------------------------
 1. Open VirtualBox.
 2. Click the "New" button.
@@ -37,7 +37,7 @@ Set Up Ubuntu virtual machine in VirtualBox
 16. Choose virtual hard disk size (I recommend around 100GB).
 17. Click "Create".
 
-Configure Settings for Ubuntu virtual Machine
+Configure Settings for Ubuntu Virtual Machine
 ----------------------------------------------
 1. Select your machine.
 2. Select "Settings".
@@ -46,7 +46,7 @@ Configure Settings for Ubuntu virtual Machine
 5. Under "Storage", click "Empty". Under "Attributes", by optical drive click Disk dropdown and choose a disk file. Provide location for ISO file downloaded in step 2.
 6. Select "OK".
 
-Open your virtual machine
+Open your Virtual Machine
 -------------------------------------
 1. Select your machine and press start.
 2. Select preferred language and click "Install Ubuntu".
