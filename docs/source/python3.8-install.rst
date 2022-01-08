@@ -16,7 +16,7 @@ Steps to Install Python 3.9.7 in Windows 11
     :height: 175px
     :alt: Verify python installation
 
-Steps to creating Virtual Environment
+Steps to Creating Virtual Environment
 ----------------------------------
 
 The pupose of a virtual environment is to create an independent environment for Python projects. This means that each project can have its own dependencies separate from others of a different Python project.
@@ -32,6 +32,7 @@ The pupose of a virtual environment is to create an independent environment for 
     :align: center
     :height: 200px
     :alt: Placing virtual environment inside a folder
+    
 
 4. To create your environment, type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
 
@@ -42,6 +43,7 @@ The pupose of a virtual environment is to create an independent environment for 
     :align: center
     :height: 75px
     :alt: Activating virtual environment 
+   
 
 6. To install packages using pip, type: "pip install package-name". In the image below, the package name is "numpy".
 
