@@ -23,27 +23,29 @@ The pupose of a virtual environment is to create an independent environment for 
 
 1. Open Command Prompt.
 
-2. To place the virtual enviroment inside a specific folder: type "cd" followed by a space, drag and drop the folder to the window, and press enter.
+2. You will need to create a directory/folder for your virtual environment. To do this, type "mkdir" followed by a space, type a name for your created folder, and press enter. 
 
-.. image:: ../images/v-env.step2.png
+3. To be able to place the virtual enviroment inside your created folder, you will need to display the directory for that folder. To do this, type "cd" followed by a space, enter the name of your foldr, and press enter.
+
+.. image:: ../images/v-env.step3.png
     :width: 600px
     :align: center
     :height: 250px
     :alt: Placing virtual environment inside a folder
 
-3. Type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
+4. Type "python -m venv demo-env". As a note, "demo-env" is an example name for the environment. You have the option to name it anything.
 
-4. To activate the environment, type "demo-env\\Scripts\\activate.bat"
+5. To activate the environment, type "demo-env\\Scripts\\activate.bat"
 
-.. image:: ../images/v-env.step4.png
+.. image:: ../images/v-env.step5.png
     :width: 650px
     :align: center
     :height: 300px
     :alt: Activating virtual environment 
 
-5. To install packages using pip, type: "pip install package-name"
+6. To install packages using pip, type: "pip install package-name"
 
-.. image:: ../images/v-env.step5.png
+.. image:: ../images/v-env.step6.png
     :width: 500px
     :align: center
     :height: 55px
