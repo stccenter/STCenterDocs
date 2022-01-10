@@ -68,15 +68,15 @@ Installing PostgreSQL
 
 
 
-Installing Slack Builder
+Installing Stack Builder
 --------------------------
-1.	Select PostgreSQL from the drop-down menu on the Slack Builder.
+1.	Select PostgreSQL from the drop-down menu on the Stack Builder.
 
 .. image:: ../images/slackbuilder-step1.png
     :width: 448px
     :align: center
     :height: 309px
-    :alt: Slack Builder step 1 screenshot
+    :alt: Stack Builder step 1 screenshot
 
 2.	Under “Spatial Extensions”, install “PostGIS 3.0 Bundle for PostgreSQL 13 (64 bit) v3.0.3.
 
@@ -84,7 +84,7 @@ Installing Slack Builder
     :width: 480px
     :align: center
     :height: 323px
-    :alt: Slack Builder step 2 screenshot
+    :alt: Stack Builder step 2 screenshot
 
 3.	Select your chosen directory and proceed.
 
@@ -92,7 +92,7 @@ Installing Slack Builder
     :width: 381px
     :align: center
     :height: 260px
-    :alt: Slack Builder step 3 screenshot
+    :alt: Stack Builder step 3 screenshot
 
 4.	After an installation process, you should reach this window. Leave the checkbox unmarked and click “Next”.
 
@@ -100,7 +100,7 @@ Installing Slack Builder
     :width: 375px
     :align: center
     :height: 257px
-    :alt: Slack Builder step 4 screenshot
+    :alt: Stack Builder step 4 screenshot
 
 5.	Agree to the terms and services.
 
@@ -108,7 +108,7 @@ Installing Slack Builder
     :width: 241px
     :align: center
     :height: 185px
-    :alt: Slack Builder step 5 screenshot
+    :alt: Stack Builder step 5 screenshot
 
 6.	Make sure PostGIS is selected. Proceed.
 
@@ -116,7 +116,7 @@ Installing Slack Builder
     :width: 386px
     :align: center
     :height: 284px
-    :alt: Slack Builder step 6 screenshot
+    :alt: Stack Builder step 6 screenshot
 
 7.	Select your destination folder. Proceed.
 
@@ -124,7 +124,7 @@ Installing Slack Builder
     :width: 480px
     :align: center
     :height: 363px
-    :alt: Slack Builder step 7 screenshot
+    :alt: Stack Builder step 7 screenshot
 
 8.	Answer “Yes” to all pop-up questions.
 9.	Congratulations! You’ve installed PostGIS and Stack Builder.
