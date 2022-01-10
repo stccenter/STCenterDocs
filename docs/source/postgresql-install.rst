@@ -1,4 +1,4 @@
-Installing PostgreSQL
+Installing PostgreSQL 13 on Windows 10
 =======================
 
 1.	Navigate to postgressql.org and select the “Download” option.
