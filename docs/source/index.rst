@@ -10,3 +10,4 @@ TBD
    python3.8-install
    anaconda-install
    postgresql-install
+   python3.9-ubuntuOS-install
