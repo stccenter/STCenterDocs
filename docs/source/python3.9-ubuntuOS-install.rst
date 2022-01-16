@@ -36,3 +36,5 @@ In these instructions, you will learn the process of how to install Python 3.9 o
       python3.9 --version
 
 12. Installation is complete!
+
+.. Note:: A generic blue box
