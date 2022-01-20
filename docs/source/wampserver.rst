@@ -6,22 +6,22 @@ Setting up WAMP Server
 3. Accept the default installation settings.
 
 .. image:: ../images/wamp-step3.png
-    :width: 697px
+    :width: 597px
     :align: center
-    :height: 567px
+    :height: 467px
     :alt: Wampserver set up step 3
 
-4. Click next and install the default settings.
-5. After installation is complete, go to the start menu and press on Wampserver64.
+4. Click "Next" and install the default settings.
+5. After installation is complete, go to the start menu and press on "Wampserver64".
 6. If the installation is successful and all services are running, the server icon will show as a green color in the task bar.
 
-.. image:: ../images/wamp-step6.png
-    :width: 35px
+.. image:: ../images/wampserver-greenicon.png
+    :width: 110px
     :align: center
-    :height: 33px
+    :height: 113px
     :alt: Wampserver green icon
 
-7. Go to `<https://sourceforge.net/projects/wampserver/>'__ and verify the server index page.
+7. Go to https://sourceforge.net/projects/wampserver/ and verify the server index page.
 
 Set up MySQL database
 --------------------------
@@ -36,9 +36,9 @@ Set up MySQL database
 9. Give the username as “root” (default username) and click “Go”.
 
 .. image:: ../images/wamp-step9.png
-    :width: 757px
+    :width: 557px
     :align: center
-    :height: 582px
+    :height: 382px
     :alt: Wampserver set up step 9
 
 10. Click “New” to create a new database.
