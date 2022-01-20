@@ -11,3 +11,4 @@ TBD
    anaconda-install
    postgresql-install
    python3.9-ubuntuOS-install
+   wampserver
