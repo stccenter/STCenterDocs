@@ -57,3 +57,5 @@ Set up MySQL database
     :align: center
     :height: 443px
     :alt: Wampserver set up step 11 & 12
+
+13. You have now created a new database.
