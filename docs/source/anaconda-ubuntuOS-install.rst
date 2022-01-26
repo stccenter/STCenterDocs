@@ -1,7 +1,7 @@
 Installing Anaconda on Ubuntu OS
 ====================================
 
-In these instructions, you will learn  the process of how to install the latest version (2020.11) of Anaconda on the Ubuntu operating system.
+In these instructions, you will learn the process of how to install the latest version (2020.11) of Anaconda on the Ubuntu operating system.
 
 
 1. As you have Ubuntu running, locate your terminal and open it.
