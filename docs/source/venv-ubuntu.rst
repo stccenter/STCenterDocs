@@ -83,3 +83,4 @@ This software will allow your VirtualBox virtual machine to properly maximize on
 |
 | Developed by: Jonathon Snipes
 | Documented by: Byron Pritchett, Jr.
+| Tested by: Leslie Dawn
