@@ -128,3 +128,7 @@ Installing Stack Builder
 
 8.	Answer “Yes” to all pop-up questions.
 9.	Congratulations! You’ve installed PostGIS and Stack Builder.
+
+|
+| Developed by: Seren Smith
+| Documented by: Byron Pritchett, Jr.
