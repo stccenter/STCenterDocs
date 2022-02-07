@@ -59,3 +59,8 @@ Set up MySQL database
     :alt: Wampserver set up step 11 & 12
 
 13. You have now created a new database.
+
+|
+| Developed by: Anusha Srirenganathan
+| Documented by: Byron Pritchett, Jr.
+| Tested by: Leslie Dawn
