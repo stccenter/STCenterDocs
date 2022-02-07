@@ -81,6 +81,6 @@ This software will allow your VirtualBox virtual machine to properly maximize on
 10. Restart Ubuntu operating system.
 
 |
-| Developed by: Jonathon Snipes
+| Developed by: Johnathon Snipes
 | Documented by: Byron Pritchett, Jr.
 | Tested by: Leslie Dawn
