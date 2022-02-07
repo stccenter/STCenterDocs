@@ -73,3 +73,7 @@ Creating a Conda Environment
     :height: 285px
     :alt: Activate the environment
 
+|
+| Developed by: Byron Pritchett, Jr.
+| Documented by: Byron Pritchett, Jr.
+| Tested by: -
