@@ -51,4 +51,7 @@ In these instructions, you will learn the process of how to install the latest v
         
 11. You now have the latest version of Anaconda installed.         
   
-    
+|
+| Developed by: Leslie Dawn
+| Documented by: Byron Pritchett, Jr.
+| Tested by: -
