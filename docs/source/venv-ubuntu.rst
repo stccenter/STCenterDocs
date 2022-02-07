@@ -79,3 +79,7 @@ This software will allow your VirtualBox virtual machine to properly maximize on
 8. Select "Run".
 9. Provide your password, click "Authenticate".
 10. Restart Ubuntu operating system.
+
+|
+| Developed by: Jonathon Snipes
+| Documented by: Byron Pritchett, Jr.
