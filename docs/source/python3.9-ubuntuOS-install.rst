@@ -46,3 +46,8 @@ In these instructions, you will learn the process of how to install Python 3.9 o
        python3.9 --version
 
 12. Installation is complete!
+
+|
+| Developed by: Leslie Dawn
+| Documented by: Byron Pritchett, Jr.
+| Tested by: -
