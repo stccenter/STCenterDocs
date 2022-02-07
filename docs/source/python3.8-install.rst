@@ -54,4 +54,6 @@ The pupose of a virtual environment is to create an independent environment for 
     :alt: Installing packages using pip
 
 
-
+|
+| Developed by: Byron Pritchett, Jr.
+| Documented by: Byron Pritchett, Jr.
