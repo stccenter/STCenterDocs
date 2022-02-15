@@ -7,7 +7,7 @@ Open-Source Package Installation
    :maxdepth: 2
 
    venv-ubuntu
-   python3.8-install
+   python3.9-install
    anaconda-install
    postgresql-install
    python3.9-ubuntuOS-install
