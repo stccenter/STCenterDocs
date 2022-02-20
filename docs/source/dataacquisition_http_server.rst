@@ -11,5 +11,12 @@ Data Acquisition Using Simple HTTP Server
 .. code-block::
 
         python3 -m http.server
-        
+  
+ 
+ 
+.. image:: ../images/image1.png
+    :width: 556px
+    :align: center
+    :height: 57px
+    :alt: Starting server command line image
  
