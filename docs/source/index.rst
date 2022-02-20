@@ -13,3 +13,5 @@ Open-Source Package Installation
    python3.9-ubuntuOS-install
    wampserver
    anaconda-ubuntuOS-install
+   dataacquisition_http_server
+   
