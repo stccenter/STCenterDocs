@@ -1,4 +1,4 @@
-How to InstallAnaconda 3 on Windows 11
+How to Install Anaconda 3 on Windows 11
 =========================================
 
 1. Go to this `link <https://www.anaconda.com/products/individual>`_.
