@@ -7,17 +7,21 @@ Make sure to update the environment up to date in terms of the package; And make
 Use the following command to insure all required dependencies are up to date 
 ``sudo yum update -y``
 
-**Step 1: Install python 3**
-``sudo yum install -y python3``
+1. **Install python 3**::
 
-**Step 2: Install pip**
-``sudo yum install epel-release``
-``sudo yum install python-pip``
+  ``sudo yum install -y python3``
 
-**Step 3: Create a directory for the webservice**
-``sudo mkdir aqi-api`
-`cd aqi-api`
+2. **Install pip**::
 
-**Step 4: Create a virtual environment**
-``sudo python3 -m venv aqi-api-env`
-``source aqi-api-env/bin/activate`
+  ``sudo yum install epel-release``
+  ``sudo yum install python-pip``
+
+3. **Create a directory for the webservice**::
+
+  ``sudo mkdir aqi-api``
+  ``cd aqi-api``
+
+4. **Create a virtual environment**::
+
+  ``sudo python3 -m venv aqi-api-env``
+  ``source aqi-api-env/bin/activate``
