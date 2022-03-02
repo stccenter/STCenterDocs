@@ -13,15 +13,15 @@ Use the following command to insure all required dependencies are up to date
 
 2. **Install pip**::
 
-  ``sudo yum install epel-release``
+  ``sudo yum install epel-release`` then,
   ``sudo yum install python-pip``
 
 3. **Create a directory for the webservice**::
 
-  ``sudo mkdir aqi-api``
+  ``sudo mkdir aqi-api`` then, 
   ``cd aqi-api``
 
 4. **Create a virtual environment**::
 
-  ``sudo python3 -m venv aqi-api-env``
+  ``sudo python3 -m venv aqi-api-env`` then, 
   ``source aqi-api-env/bin/activate``
