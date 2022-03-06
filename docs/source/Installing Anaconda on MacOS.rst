@@ -20,6 +20,12 @@ This Command checks the version of the desired application in our case, python.
 
   -	One the webpage navigate to the menu bar and select products – Induvial Edition
   
+  .. image:: ../images/Anaconda Webpage.png
+    :width: 629px
+    :align: center
+    :height: 443px
+    :alt: Anaconda Webpage
+
   
   -	Select the correct system for installation, for the MacOS system the use the apple icon. Select the Python 3 • 64-Bit Graphical Installer • 515 MB. Anaconda sometimes automatically has the correct system download upfront as shown above 
   
