@@ -19,3 +19,21 @@ This Command checks the version of the desired application in our case, python.
 2.	Visit the `Anaconda website <https://www.anaconda.com>`_, this where you will have the choice to install Anaconda versions.
 
   -	One the webpage navigate to the menu bar and select products – Induvial Edition
+  
+  
+  -	Select the correct system for installation, for the MacOS system the use the apple icon. Select the Python 3 • 64-Bit Graphical Installer • 515 MB. Anaconda sometimes automatically has the correct system download upfront as shown above 
+  
+3.	To successfully downloading Anaconda, locate it within your download folder and double click on the .pkg file
+
+  -	Select continue to start the Anaconda3 installer process; Follow the given prompts, then select install after each section has been read and verified, there is 8 sections as listed in the image below on the left. 
+  
+  - After the installation is completed, you may move the Anaconda installer file to the trash bin
+  
+  4.	Finally, ensure that anaconda has been successfully installed. To do so navigate back to the terminal, 
+  
+  -	On the command line without the brackets type ``conda --version``
+
+Again, this Command checks the version of the desired application in our case, anaconda.
+
+
+
