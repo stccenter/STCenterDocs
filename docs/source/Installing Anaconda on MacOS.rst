@@ -33,7 +33,7 @@ This Command checks the version of the desired application in our case, python.
   
   -	On the command line without the brackets type ``conda --version``
 
-    Again, this Command checks the version of the desired application in our case, anaconda.
+    Again, this Command checks the version of the desired application in our case, anaconda. 
     
 **Installation of a package:**
 
