@@ -32,3 +32,10 @@ Use the following command to ensure all required dependencies are up to date
   Use the following command to test run a package installation, numpy is a widely used package. 
   
   ``conda install numpy`` 
+  
+  
+  
+|
+| Developed by: Shyra LaGarde
+| Documented by: Shyra LaGarde
+| Tested by: -
