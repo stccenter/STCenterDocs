@@ -1,6 +1,6 @@
-====================================================================
-Python installation and virtual environment set up for CentOS users
-====================================================================
+========================================
+Python installation for CentOS users
+========================================
 
 Make sure to update the environment up to date in terms of the package; And make sure to be a root user to do this add “sudo” in front of command line 
 
