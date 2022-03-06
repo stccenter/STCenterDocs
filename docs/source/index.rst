@@ -16,3 +16,4 @@ Open-Source Package Installation
    dataacquisition_http_server
    Python-Installation-CentOS
    Installing Anaconda on MacOS
+   Installing Anaconda CentOS.rst
