@@ -15,6 +15,7 @@ Anaconda provides a bundle of scientific packages that you will use throughout y
 
 This Command checks the version of the desired application in our case, python. 
 
-2.	Visit the `Anaconda website <https://www.anaconda.com>`, this where you will have the choice to install Anaconda versions.
+
+2.	Visit the `Anaconda website <https://www.anaconda.com>`_, this where you will have the choice to install Anaconda versions.
 
   -	One the webpage navigate to the menu bar and select products – Induvial Edition
