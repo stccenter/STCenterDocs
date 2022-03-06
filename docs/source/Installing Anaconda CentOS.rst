@@ -12,7 +12,7 @@ Anaconda provides a bundle of scientific packages that you will use throughout y
 -	Python is probably already installed on your system. On the command line without the brackets type sudo <python --version> 
 This Command checks the version of the desired application in our case, python. 
 
-2.	Visit the `Anaconda website <https://www.anaconda.com>`
+2.	Visit the `Anaconda website <https://www.anaconda.com>`_
  Anaconda website, this where you will have the choice to install Anaconda versions 
 -	One the webpage navigate to the menu bar and select products – Induvial Edition, copy the bash (.sh file) installer link
 
@@ -38,7 +38,7 @@ Ensure you are in the directory where the installer script downloaded:
     
     ``bash Anaconda3-5.2.0-Linux-x86_64.sh``
     
-    `` source .bashrc`` 
+    ``source .bashrc`` 
     
 3.	**Test installation**
 
