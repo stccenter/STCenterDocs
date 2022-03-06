@@ -15,3 +15,4 @@ Open-Source Package Installation
    anaconda-ubuntuOS-install
    dataacquisition_http_server
    Python-Installation-CentOS
+   Installing Anaconda on MacOS
