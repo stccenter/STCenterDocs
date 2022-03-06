@@ -40,3 +40,7 @@ This Command checks the version of the desired application in our case, python.
 On the command line use ``conda install numpy``
 
 
+|
+| Developed by: Shyra LaGarde
+| Documented by: Shyra LaGarde
+| Tested by: - 
