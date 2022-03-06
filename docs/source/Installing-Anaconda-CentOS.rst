@@ -1,5 +1,5 @@
 ========================================
-**Installing Anaconda for CentOS users**
+Installing Anaconda for CentOS users
 ========================================
 
 Anaconda is a package manager & python distribution. 
