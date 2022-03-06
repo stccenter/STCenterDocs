@@ -20,7 +20,7 @@ This Command checks the version of the desired application in our case, python.
 
   -	One the webpage navigate to the menu bar and select products – Induvial Edition
   
-  .. image:: ../images/Anaconda Webpage.png
+  .. image:: ../Users/shyralarea/Documents/NSF Internship/Documentation/STCenterDocs-main/docs/images/Anaconda Webpage.png
     :width: 629px
     :align: center
     :height: 443px
