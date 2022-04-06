@@ -20,6 +20,6 @@ Open-Source Package Installation
    Installing-Gephi-UbuntoOS
    Installing-Gephi-on-WindowsOS
    Installing-Anaconda-on-MacOS
-   Installing-Anaconda-on-MacOS
+   Installing-Gephi-on-MacOS
    
 
