@@ -15,8 +15,7 @@ Gephi Installation on MacOS systems
 
   -	Open Gephi and enjoy its services, you’ve successfully downloaded Gephi onto your macOS system
 
+
 Developed by: Kennedy Carper 
-
 Documented by: Shyra LaGarde
-
 Tested by: -
