@@ -17,3 +17,4 @@ Open-Source Package Installation
    Python-Installation-CentOS
    Installing-Anaconda-on-MacOS
    Installing-Anaconda-CentOS.rst
+   Installing-Gephi-UbuntoOS.rst
