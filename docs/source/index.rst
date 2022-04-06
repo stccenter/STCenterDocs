@@ -18,6 +18,6 @@ Open-Source Package Installation
    Installing-Anaconda-on-MacOS
    Installing-Anaconda-CentOS.rst
    Installing-Gephi-UbuntoOS.rst
-   Gephi-Installation-WindowsOS.rst
+   Gephi-Installation-WindowOS.rst
    
 
