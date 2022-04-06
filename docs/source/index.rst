@@ -16,8 +16,10 @@ Open-Source Package Installation
    dataacquisition_http_server
    Python-Installation-CentOS
    Installing-Anaconda-on-MacOS
-   Installing-Anaconda-CentOS.rst
-   Installing-Gephi-UbuntoOS.rst
-   Installing-Gephi-on-WindowsOS.rst
+   Installing-Anaconda-CentOS
+   Installing-Gephi-UbuntoOS
+   Installing-Gephi-on-WindowsOS
+   Installing-Anaconda-on-MacOS
+   Installing-Anaconda-on-MacOS
    
 
