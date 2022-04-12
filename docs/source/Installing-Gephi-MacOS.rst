@@ -3,7 +3,11 @@ Gephi Installation on MacOS systems
 
 1. If you don’t have Java Runtime Environment yet, please download and install Java 8 from https://java.com/en/download/ by clicking on the red button to download and install Java 8. 
 
-![Java Page](images/GephiMac1.png)
+.. image:: ../images/GephiMac1.png
+    :width: 480px
+    :align: center
+    :height: 175px
+    :alt: Java Download Page
 
 2. Download Gephi onto your system from https://gephi.org/users/install/ 
 
@@ -13,13 +17,13 @@ Gephi Installation on MacOS systems
   
   -	Press allow
 
-![Java Page](images/GephiMac2.png)
+![](images/GephiMac2.png)
 
 3. Once downloaded find the Gephi.dmg file in your system’s finder
 
   -	Open Gephi and enjoy its services, you’ve successfully downloaded Gephi onto your macOS system
 
-![Java Page](images/GephiMac3.png)
+![](images/GephiMac3.png)
 
 
 
