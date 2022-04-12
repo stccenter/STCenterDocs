@@ -6,7 +6,7 @@ Gephi Installation on MacOS systems
 .. image:: ../images/GephiMac1.png
     :width: 480px
     :align: center
-    :height: 175px
+    :height: 400px
     :alt: Java Download Page
 
 2. Download Gephi onto your system from https://gephi.org/users/install/ 
@@ -17,13 +17,21 @@ Gephi Installation on MacOS systems
   
   -	Press allow
 
-![](images/GephiMac2.png)
+.. image:: ../images/GephiMac2.png
+    :width: 480px
+    :align: center
+    :height: 400px
+    :alt: Gephi Download Page
 
 3. Once downloaded find the Gephi.dmg file in your system’s finder
 
   -	Open Gephi and enjoy its services, you’ve successfully downloaded Gephi onto your macOS system
 
-![](images/GephiMac3.png)
+.. image:: ../images/GephiMac1.png
+    :width: 480px
+    :align: center
+    :height: 400px
+    :alt: Gephhi system
 
 
 
