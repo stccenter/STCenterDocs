@@ -34,7 +34,7 @@ Note: your JDK JRE folder maybe different.
 4. Go to Gref.Net and install the “Hello-world.gexf’’ GEXF File Format. It will be the green HTML link  under Dummy files that you need to click on.
 
 .. image:: ../images/GephiWindow4.png
-    :width: 480px
+    :width: 520px
     :align: center
     :height: 400px
     :alt: Verify python installation
