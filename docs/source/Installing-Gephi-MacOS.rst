@@ -27,7 +27,7 @@ Gephi Installation on MacOS systems
 
   -	Open Gephi and enjoy its services, you’ve successfully downloaded Gephi onto your macOS system
 
-.. image:: ../images/GephiMac1.png
+.. image:: ../images/GephiMac3.png
     :width: 480px
     :align: center
     :height: 400px
