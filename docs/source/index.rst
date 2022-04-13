@@ -19,4 +19,4 @@ Open-Source Package Installation
    Installing-Anaconda-CentOS
    Installing-Gephi-UbuntoOS
    Installing-Gephi-on-WindowsOS
-   Installing-Gephi-on-MacOS
+   Installing-Gephi-MacOS
