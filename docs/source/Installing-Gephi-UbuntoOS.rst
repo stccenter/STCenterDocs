@@ -1,5 +1,5 @@
-Installing Gephi on Ubuntu OS:
-===============================
+Installing Gephi on Ubuntu OS
+=============================
 
 In these instructions, you will learn the process of how to install the latest version of Gephi (0.9.2) on the Ubuntu operating system.
 
