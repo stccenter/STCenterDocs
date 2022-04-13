@@ -14,8 +14,6 @@ Gephi Installation on MacOS systems
   -	Click the orange download button
   
   -	Ensure the download is for the correct system
-  
-  -	Press allow
 
 .. image:: ../images/GephiMac2.png
     :width: 480px
