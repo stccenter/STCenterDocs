@@ -1,5 +1,5 @@
-Installing Gephi on Windows OS:
-=============
+Installing Gephi on Windows OS
+==============================
 
 1. If you don’t have Java Runtime Environment yet, please download and install Java 8 from https://java.com/en/download/ by click on the red button to download and install Java 8. 
 
