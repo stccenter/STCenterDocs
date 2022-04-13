@@ -8,13 +8,10 @@ In these instructions, you will learn the process of how to install the latest v
 2.) In order to use Gephi, you will have to use Java installed on your virtual machine. If you do not have Java  installed, type these commands into the terminal:
 
 	``sudo add-apt-repository ppa:openjdk-r/ppa``
-	(Press Enter.)
 	
 	``sudo apt update``
-	(Press Enter.)
 	
 	``sudo apt install openjdk-8-jdk openjdk-8-jre``
-	(Press Enter.)
 	
 3.) Next, in order to download the latest version of Gephi, enter this command into the terminal and press the Enter key:
 
