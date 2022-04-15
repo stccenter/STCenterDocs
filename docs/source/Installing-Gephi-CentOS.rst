@@ -28,9 +28,11 @@ Gephi Installation for Cent OS
 9.	From any SSH client such as MobaXterm on local machine connect to remote machine with X11 forward 
   * DISPLAY=127.0.0.1:0  ssh -i CentOS-OS.pem -Y centos@54.159.140.179 /opt/gephi-0.9.3/bin/gephi
   
-![](images/Gephi_CentOS.png)
-
-
+.. image:: ../images/CentOS-Gephi.png
+    :width: 480px
+    :align: center
+    :height: 400px
+    :alt: Verify python installation
 
 
 Developed By: Anusha Srirenganathan
