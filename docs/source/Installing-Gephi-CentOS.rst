@@ -1,5 +1,5 @@
-Gephi Installation for Cent OS
-===============================
+Installing Gephi on CentOS
+=============================
 
 1. Install Java
   
@@ -23,7 +23,7 @@ Gephi Installation for Cent OS
   
 6.	Verify X11Forwarding parameter
 
-  * cat /etc/ssh/sshd_config |grep -i X11Forwarding
+  ``cat /etc/ssh/sshd_config |grep -i X11Forwarding``
   
 7.	You should see similar output as the following:
 
@@ -31,7 +31,7 @@ Gephi Installation for Cent OS
   
 8.	Restart ssh service
 
-  * service sshd restart
+  ``service sshd restart``
   
 9.	From any SSH client such as MobaXterm on local machine connect to remote machine with X11 forward 
   
