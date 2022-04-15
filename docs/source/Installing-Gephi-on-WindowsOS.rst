@@ -39,11 +39,11 @@ Note: your JDK JRE folder maybe different.
 5.	Launch Gephi and open the data file “Hello-world.gexf you may need to choose the 32bit version (highlighted below) if the default launch can’t find the Java path.
    
 .. image:: ../images/GephiWindow5.png
-    :width: 500px
+    :width: 400px
     :align: center
     :alt: Verify python installation
     
-    It should look like something similar to this. If you press the T at the bottom left-hand corner. It will print out the text "Hello World” at the nodes.
+6.  It should look like something similar to this. If you press the T at the bottom left-hand corner. It will print out the text "Hello World” at the nodes.
 
 .. image:: ../images/GephiWindow6.png
     :width: 600px
