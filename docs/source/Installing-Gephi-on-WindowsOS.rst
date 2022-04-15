@@ -18,9 +18,9 @@ Installing Gephi on Windows OS
 
 3. Configure file 
 
-“C:\Program Files\Gephi-0.9.2\etc\gephi.conf” by setting 
+“C:\\Program Files\\Gephi-0.9.2\\etc\\gephi.conf” by setting 
 
-jdkhome="<inside the quotations with brackets insert your Java file path>" 
+jdkhome="C:\\Program Files (x86)\\Java\\jre1.8.0_241" (please change the text to your java path on your computer)
 
 Note: your JDK JRE folder maybe different. 
 
@@ -29,10 +29,10 @@ Note: your JDK JRE folder maybe different.
     :align: center
     :alt: Verify python installation
 
-4. Go to Gref.Net and install the “Hello-world.gexf’’ GEXF File Format. It will be the green HTML link  under Dummy files that you need to click on.
+4. Go to http://gexf.net/ and install the “Hello-world.gexf’’ GEXF File Format. It will be the green HTML link  under Dummy files that you need to click on.
 
 .. image:: ../images/GephiWindow4.png
-    :width: 600px
+    :width: 800px
     :align: center
     :alt: Verify python installation
     
