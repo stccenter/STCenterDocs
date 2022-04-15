@@ -50,7 +50,6 @@ Note: your JDK JRE folder maybe different.
     :align: center
     :alt: Verify python installation
 
-
 Developed by: Michale Lawrence 
 
 Documented by: Shyra LaGarde
