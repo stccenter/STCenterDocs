@@ -1,4 +1,4 @@
-Gephi Installation on MacOS systems
+Installing Gephi on MacOS
 ===================================
 
 1. If you don’t have Java Runtime Environment yet, please download and install Java 8 from https://java.com/en/download/ by clicking on the red button to download and install Java 8. 
