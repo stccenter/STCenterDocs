@@ -39,9 +39,8 @@ Installing Gephi on CentOS
    
   
 .. image:: ../images/CentOS-Gephi.png
-    :width: 100%
+    :width: 600px
     :align: center
-    :height: 100%
     :alt: CentOS Gephi
 
 
