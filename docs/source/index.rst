@@ -17,7 +17,7 @@ Open-Source Package Installation
    Python-Installation-CentOS
    Installing-Anaconda-on-MacOS
    Installing-Anaconda-CentOS
-   Installing-Gephi-UbuntoOS
+   Installing-Gephi-UbuntuOS
    Installing-Gephi-on-WindowsOS
    Installing-Gephi-MacOS
    Installing-Gephi-CentOS
