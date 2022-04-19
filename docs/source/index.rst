@@ -21,3 +21,4 @@ Open-Source Package Installation
    Installing-Gephi-on-WindowsOS
    Installing-Gephi-MacOS
    Installing-Gephi-CentOS
+   CentOS 
