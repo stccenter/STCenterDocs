@@ -7,7 +7,6 @@ Open-Source Package Installation
    :maxdepth: 2
 
    wampserver
-   
    Ubuntu/index
    venv-ubuntu
    Installing-Gephi-UbuntuOS
