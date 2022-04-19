@@ -7,22 +7,22 @@ Open-Source Package Installation
    :maxdepth: 2
 
    wampserver
-   Ubuntu/index
+   UbuntuOS
    venv-ubuntu
    Installing-Gephi-UbuntuOS
    anaconda-ubuntuOS-install
    python3.9-install
    python3.9-ubuntuOS-install
-   WindowsOS/index 
+   WindowsOS
    anaconda-install
    Installing-Gephi-on-WindowsOS
    postgresql-install
    dataacquisition_http_server
-   CentOS/index
+   CentOS
    Python-Installation-CentOS
    Installing-Anaconda-CentOS
    Installing-Gephi-CentOS
-   MacOS/index
+   MacOS
    Installing-Gephi-MacOS
    Installing-Anaconda-on-MacOS
    
