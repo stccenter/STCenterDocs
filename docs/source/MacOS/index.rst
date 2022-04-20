@@ -4,7 +4,7 @@ MacOS Installation Guides
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Installing-Gephi-MacOS
    Installing-Anaconda-on-MacOS
