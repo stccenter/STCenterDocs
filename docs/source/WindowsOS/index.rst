@@ -4,7 +4,7 @@ WindowsOS Installation Guides
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    anaconda-install
    Installing-Gephi-on-WindowsOS
