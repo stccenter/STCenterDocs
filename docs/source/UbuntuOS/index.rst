@@ -6,7 +6,6 @@ Ubuntu Installation Guides
 .. toctree::
    :maxdepth: 1
 
-   UbuntuOS
    venv-ubuntu
    Installing-Gephi-UbuntuOS
    anaconda-ubuntuOS-install
